@@ -12,7 +12,7 @@ Kishan Iyer
 ## Description
 Most data analysts use a variety of tools in order to gain an all-round understanding of their business data. In this course, Getting Started with Databricks SQL, you will learn various concepts, components, and features of Databricks SQL which allow all of this to be accomplished from a single platform. First, you will discover some of the core concepts around the storing of data in Databricks, including data lakes and lakehouses, and how Databricks SQL makes it easy to access and analyze this data. Then, you will explore into the various components of Databricks SQL, such as SQL endpoints, queries, visualizations, and dashboards, and how all of these come together to enable analysts to look at their data from many points of view and gain a big-picture view of it. Finally, you will learn how to create a table using Databricks SQL, which you will then analyze using a query and a visualization. Once you finish this course, you will recognize the true power of Databricks SQL when it comes to analyzing and gaining insights from big data.
 
-## what have i done?
+## What have i done?
 - Import dataset in databricks
 - Convert csv to exxternal table
 - Read external table
